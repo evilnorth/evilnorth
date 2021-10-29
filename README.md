@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @evilnorth
+- 👀 I’m interested in Java, C++, C#, HTML, CSS, Python, MySQL.
+- 🌱 I’m currently learning Java, with the help of the IFP of Montréal.
+- 💞️ I’m looking to, eventually collaborate on private gaming servers, websites, android apps, softwares, e-commerce and more.
+- 📫 You can reach me easily on discord @ evilnorth#9134.
